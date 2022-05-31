@@ -1,5 +1,5 @@
-# BuryFlowers.github.io
-My blog
+# My blog
+BuryFlowers.github.io
 
 Use Hexo 6.2.0
 
